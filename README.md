@@ -160,6 +160,10 @@ rcarbon::calibrate(x = x$c14age, error = x$c14std)
 
 ### Databases
 
+<p align="center">
+  <img src="figures/figure.png" width = 100%>
+</p>
+
 To suggest other archives to be queried you can join the discussion [here](https://github.com/ropensci/c14bazAAR/issues/2).
 
 * [`get_c14data("14cpalaeolithic")`](R/get_14cpalaeolithic.R) [**14cpalaeolithic**](https://ees.kuleuven.be/geography/projects/14c-palaeolithic/radiocarbon-palaeolithic-europe-database-v26-extract.xlsx): Radiocarbon Palaolithic Europe Database V26, June 2019 by [Pierre M. Vermeersch](https://ees.kuleuven.be/geography/projects/14c-palaeolithic/) (2019).
