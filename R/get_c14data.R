@@ -129,8 +129,10 @@ get_all_parser_functions <- function() {
   return(c(
     "14sea" = c14bazAAR::get_14sea,
     "adrac" = c14bazAAR::get_adrac,
+    "agrichange" = c14bazAAR::get_agrichange,
     "austarch" =  c14bazAAR::get_austarch,
     "calpal" = c14bazAAR::get_calpal,
+    "caribbean" = c14bazAAR::get_caribbean,
     "context" = c14bazAAR::get_context,
     "emedyd" = c14bazAAR::get_emedyd,
     "eubar" = c14bazAAR::get_eubar,

@@ -141,3 +141,36 @@ clean_labnr <- function(x) {
 check_connection_to_url <- function(db_url) {
   if (httr::http_error(db_url)) {stop(paste(db_url, "is not available. No internet connection?"))}
 }
+
+#' paste_ignore_na
+#'
+#' https://stackoverflow.com/questions/13673894/suppress-nas-in-paste
+#'
+#' @param ... character vectors
+#' @param sep character
+#'
+#' @return character vector
+#'
+#' @keywords internal
+#' @noRd
+paste_ignore_na <- function(..., sep = ";") {
+  L <- list(...)
+  L <- lapply(
+    L,
+    function(x) {
+      x[is.na(x)] <- ""
+      x
+    }
+  )
+  ret <- gsub(
+    paste0("(^", sep, "|", sep, "$)") ,
+    "",
+    gsub(
+      paste0(sep, sep),
+      sep,
+      do.call(paste, c(L, list(sep = sep)))
+    )
+  )
+  is.na(ret) <- ret == ""
+  ret
+}

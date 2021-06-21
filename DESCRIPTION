@@ -1,7 +1,7 @@
 Package: c14bazAAR
 Title: Download and Prepare C14 Dates from Different Source Databases
-Description: Query different C14 date databases and apply basic data cleaning, merging and calibration steps. Currently available databases: 14cpalaeolithic, 14sea, adrac, austarch, bda, calpal, context, eubar, euroevol, irdd, jomon, katsianis, kiteeastafrica, medafricarbon, mesorad, nerd, pacea, palmisano, radon, radonb, rxpand.
-Version: 2.3.0
+Description: Query different C14 date databases and apply basic data cleaning, merging and calibration steps. Currently available databases: 14cpalaeolithic, 14sea, adrac, agrichange, austarch, bda, calpal, caribbean, context, eubar, euroevol, irdd, jomon, katsianis, kiteeastafrica, medafricarbon, mesorad, nerd, pacea, palmisano, radon, radonb, rxpand.
+Version: 2.4.0
 Authors@R: 
     c(person(given = "Clemens",
              family = "Schmid",

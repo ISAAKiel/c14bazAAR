@@ -117,6 +117,7 @@ antler,"Arcy R V Z8 754,, antler with groove"
 antler,"barbed point, presumably antler"
 antler,Baton perce of Rangifer tarandus antler
 antler,"Bign_njsb_waste, antler cervid manufact. Waste"
+antler,bois de cerf
 antler,bois de cerf - mediocre fiabilite physico-chimique des echantillons
 antler,bois de renne
 antler,bois de renne  - mediocre fiabilite physico-chimique des echantillons
@@ -293,10 +294,6 @@ antler,worked ivory rood
 antler,worked reindeer antler
 antler,Worked reindeer antler
 antler,worked shed reindeer antler 15018.H
-bone,collagen extr[act]
-bone,isolated metacarpal of Equus caballus  at depth of 7.2m with 20 lithics in feature
-bone,saiga metatarsal diaphysis fragment with cutmarks and percussion mark
-bone,Saiga radio-ulna diaphysis fragment L.
 bone, Bone
 bone, Bone chisel OR-1998-2004
 bone, bone with anthropogenic modifications a&‚ 5Š(ø
@@ -2304,6 +2301,7 @@ bone,collagen bone Bos/Bison from AN2-South
 bone,Collagen bone Cervus elaphus from AN2-East
 bone,collagen bone from AN3-South
 bone,collagen Canis lupus
+bone,collagen extr[act]
 bone,Collagen from bird bone:ptarmigan(?) screened material
 bone,"collagen from bone fragments from loc 12, layer 3"
 bone,"Collagen from bone fragments from loc 19, layer 2"
@@ -2559,6 +2557,7 @@ bone,Ethmoid bones
 bone,Evolved Aurignacian Indet. diaphyseal fragment Possible percussion
 bone,fauna
 bone,fauna  from  burial
+bone,Fauna bone (mammal)
 bone,faunal bone
 bone,"FB-323, femur mammoth bord nord HA-4"
 bone,femur adult malte
@@ -2792,6 +2791,7 @@ bone,human bone: humerus
 bone,human bone: tibia
 bone,human bone?
 bone,Human bone? Sur pointe barbelee
+bone,human bone/teeth
 bone,Human bones
 bone,human bones
 bone,human bones from burial DV43
@@ -2944,6 +2944,7 @@ bone,"indeterminable burnt bone, biogenic apatite from charred bones"
 bone,indeterminated bone   This older age is fully consistent with its stratigraphic position.
 bone,infant's bone framents
 bone,"irish giant deer, distal femur, B8'4''"
+bone,isolated metacarpal of Equus caballus  at depth of 7.2m with 20 lithics in feature
 bone,"ivory from tusk of Mammoth, artefact"
 bone,ivory Mammoth tusk same as OxA-17946 from context J/K 10
 bone,ivory Mammoth tusk same as OxA-17947 from context J/K 10
@@ -3301,6 +3302,8 @@ bone,organic fraction in bone
 bone,Organic fraction of bones from level L 3 b obtained after first HCL treatment as Gif-4584IV
 bone,organic fraction of reindeer bone
 bone,os
+bone,os (apatite)
+bone,os (collagène)
 bone,"OS 07 7, mammoth femur, same sample as GrA-38787 and SacA-14986"
 bone,"OS 07 7, mammoth femur, same sample as SacA-11176 and GrA-38787"
 bone,"OS 07 7, mammoth femur, same sample as SacA-11176 and SacA-14986"
@@ -3308,12 +3311,15 @@ bone,"OS 07-3 (1984), femur loup (Topalishche)"
 bone,"OS 08-02, mammoth rib, same sample as SacA-12041and 12259"
 bone,"OS 08-02, mammoth rib, same sample as SacA-14984 and 12041"
 bone,"OS 08-02, mammoth rib, same sample as SacA-14984 and 12259"
+bone,os brûlé
 bone,"Os de cert, apport anthropique"
 bone,Os de chevreuil
 bone,os de lapin
 bone,os et dents (diverses espŠces)
 bone,Os herbovore from VIIIa Lb/Lg
 bone,Os nears
+bone,Os-animal
+bone,Os-humain
 bone,ossements de renne
 bone,Ovibos moschatus single bone  phalanx with cut marks from entrance of chamber A
 bone,Ovicaprid bone
@@ -3678,6 +3684,8 @@ bone,saiga fhumerus distal diaphysis  R from c. 4 (including sediment in bone)
 bone,saiga humerus diaphysis
 bone,Saiga humerus diaphysis L
 bone,"Saiga humerus, diaphysis R with cutmarks"
+bone,saiga metatarsal diaphysis fragment with cutmarks and percussion mark
+bone,Saiga radio-ulna diaphysis fragment L.
 bone,Salle de la Hyene
 bone,same bone spatula as OxA-7081
 bone,same horse metatarsal as previous from layer 6-2
@@ -4047,7 +4055,11 @@ ceramics,ceramic inetrior
 ceramics,ceramic interior
 ceramics,Ceramic interior
 ceramics,ceramic interior from lower layer
+ceramics,Ceramic temper
 ceramics,ceramics
+ceramics,Ceramics
+ceramics,céramique
+ceramics,Ceramique-TL
 ceramics,exterior ceramic
 ceramics,interior ceramic
 ceramics,organic temper
@@ -4058,8 +4070,10 @@ ceramics,Pinus chazrcoal
 ceramics,Pottery
 ceramics,pottery
 ceramics,Pottery carbon
+ceramics,pottery organics
 ceramics,pottery temper from lower layer
 ceramics,"Pottery, organic temper"
+ceramics,sherds bulk organic content
 ceramics,"Sherds, organic fraction"
 ceramics,vegetable temper
 charcoal, Rydno 1/1980 #12 f charcoal in an exploitation pit consisting of many units; depth 105-120
@@ -4104,6 +4118,7 @@ charcoal,Bone and charcoal from Psbeta
 charcoal,bone charcoal
 charcoal,bone collagen/charcoal ?
 charcoal,bone? Charcoal?
+charcoal,bulk carbon
 charcoal,Bulked unidentified charcoal from hearth in square E4.4
 charcoal,"Burned bone, charcoal"
 charcoal,"burned bone, charcoal (?)"
@@ -4176,6 +4191,8 @@ charcoal,chaarcoal from 3.83 m
 charcoal,chacoal
 charcoal,Charbon
 charcoal,charbon
+charcoal,charbons (lot)
+charcoal,charbons et cendres
 charcoal,Charcal from horse I-9
 charcoal,Charcal from horse II-29
 charcoal,Charcal from horse II-44
@@ -5051,6 +5068,10 @@ charcoal,Charcoal: Pinus sylvestris from 6-IV
 charcoal,Charcoal: Prunus sp.
 charcoal,charcoal? Nø70
 charcoal,charcoal. Le charbon ‚tait coll‚ au bloc grav‚ (tˆte de cheval)
+charcoal,charcoal/charred
+charcoal,charcoal/charred material
+charcoal,Charcoal/charred material
+charcoal,charcoal/charred material 1
 charcoal,Charcoal/detritus
 charcoal,Charcoal/fossil humus?
 charcoal,charcoal/humus
@@ -5073,6 +5094,7 @@ charcoal,charcoalfrom layer 5
 charcoal,Charcoalfrom point sur aurochs 16
 charcoal,charcoall from L5
 charcoal,"CharcoalPinus nigra-sylvestris ,sample A-17"
+charcoal,charcoals
 charcoal,"charcoals (Pinus sylvestris) collected from the trampling palaeosurface  square B5, Unit 1"
 charcoal,"charcoals (Pinus sylvestris) collected from the trampling palaeosurface square D6, Unit 1"
 charcoal,"charcoals from D2/C,13-14/I-L"
@@ -5102,8 +5124,10 @@ charcoal,charred seed
 charcoal,charred seeds
 charcoal,Charred twig
 charcoal,charred twigs
+charcoal,charred vegetal material
 charcoal,charred wood
 charcoal,Charred wood
+charcoal,charried materials
 charcoal,Chazrcal
 charcoal,cheval 5 secteur 101 paroi charbon
 charcoal,chracoal
@@ -5314,9 +5338,11 @@ fabric,textile?
 fabric,thread
 fabric,wool
 food residues,bread
+food residues,Ceramic residue
 food residues,charred food remains
 food residues,charred food residue
 food residues,food
+food residues,food crust
 food residues,food remains
 food residues,food residue
 food residues,Honey
@@ -5555,6 +5581,7 @@ other/unknown,bulk
 other/unknown,Bulk organic fraction
 other/unknown,bulk organic matter
 other/unknown,bulk organic mud
+other/unknown,bulk sample
 other/unknown,bunrt pebble
 other/unknown,burned bone?
 other/unknown,burned bone/charcoal
@@ -5625,6 +5652,7 @@ other/unknown,"C1, sur bloc calcaire avec crane d'ours"
 other/unknown,"C2, sur bloc calcaire avec crane d'ours"
 other/unknown,"C3, sur bloc de calcaire avec crane d'ours"
 other/unknown,Cal PB: 13030-12692
+other/unknown,calcaire
 other/unknown,"calcaneum, AI,  12,"
 other/unknown,"calcareous gyttja, organic fraction"
 other/unknown,calcareous tufa
@@ -5641,6 +5669,8 @@ other/unknown,Calcrete nodule
 other/unknown,CAM
 other/unknown,Capra pyrenaica mandible right m‚
 other/unknown,Caracoles de tierra
+other/unknown,caramel
+other/unknown,Caramel
 other/unknown,CARAMEL?
 other/unknown,caramel?
 other/unknown,carb flint
@@ -5675,6 +5705,7 @@ other/unknown,Cave coprolites from unit I-III within recen tprehistory
 other/unknown,"Cave coprolites from unit I-IV within ""Bronze"""
 other/unknown,Cave coprolites from unitI I-III within Neolithic(?)
 other/unknown,CBne Coelodonta antiquitatis
+other/unknown,cendres
 other/unknown,Ceniza
 other/unknown,Ceramic Organic Residue
 other/unknown,cf. Atala sp.
@@ -5688,6 +5719,7 @@ other/unknown,Charcoal and burnt earth
 other/unknown,Charcoal and grains (205g)
 other/unknown,Charcoal and soil
 other/unknown,Charcoal lense
+other/unknown,charcoal or bone
 other/unknown,charcoal or shell
 other/unknown,charcoal or shell
 other/unknown,"charcoal,bone,shell"
@@ -5798,6 +5830,7 @@ other/unknown,eggshells
 other/unknown,eland
 other/unknown,Emu eggshell
 other/unknown,encrusted (food?) remains
+other/unknown,enduit
 other/unknown,Entreee
 other/unknown,Er
 other/unknown,Escargotière
@@ -5952,6 +5985,7 @@ other/unknown,exterieur cavit‚ couche moyenne
 other/unknown,Fabaceae from EC-2
 other/unknown,facies micritique … microsturcture granulaire argile
 other/unknown,fading corrected age
+other/unknown,faunal material
 other/unknown,Feldspar
 other/unknown,feldspar grains from 2m below the site layer
 other/unknown,"feldspar IRSL CAM age model, non fading-corrected IRSL5O age"
@@ -6327,6 +6361,8 @@ other/unknown,human
 other/unknown,Human blood protein
 other/unknown,human brain
 other/unknown,human calvaria
+other/unknown,Human hair
+other/unknown,Human skin
 other/unknown,humates
 other/unknown,Humates from previous sample
 other/unknown,"humerus, humic acid, Rangifer tarandus"
@@ -6376,11 +6412,13 @@ other/unknown,humus from uppermost loess -5.6 m
 other/unknown,humus from uppermost loess at -4.2m
 other/unknown,humus?
 other/unknown,I8
+other/unknown,iconnu
 other/unknown,idem as  Beta-242744
 other/unknown,Immediate neighbourhood of the object
 other/unknown,"in layer II,2"
 other/unknown,in top of GII a and base of GIII
 other/unknown,indetermine
+other/unknown,Indéterminé
 other/unknown,Inhaled particulate carbon
 other/unknown,insect
 other/unknown,insect remain
@@ -6543,6 +6581,10 @@ other/unknown,"marine shell, Patella sp."
 other/unknown,massive-based (proximal fragment) point
 other/unknown,massive-based point (almost complete)
 other/unknown,massive-based point (promimal fragment) PZ-121
+other/unknown,material unknown
+other/unknown,Matériau à durée de vie courte Indet.
+other/unknown,matière organique
+other/unknown,Matière organique indéterminée
 other/unknown,mean age
 other/unknown,"Mean age, 2 sigma"
 other/unknown,Mean EU ESR
@@ -6589,6 +6631,9 @@ other/unknown,Musscle tissue from Mammoth with cut marks
 other/unknown,myenne pond‚r‚e de 12 datations ATL sur silex brul‚s
 other/unknown,Mylitus planulatus shell
 other/unknown,Mytilidae sp.
+other/unknown,n.d
+other/unknown,n.d –
+other/unknown,n.d.
 other/unknown,n.d.
 other/unknown,n/a
 other/unknown,NA
@@ -6632,6 +6677,7 @@ other/unknown,organic fraction
 other/unknown,Organic fraction
 other/unknown,organic fraction in chalk-gyttja obtained by acid treatment and dialyse (same as 118a)
 other/unknown,organic in charred sediment
+other/unknown,organic macrofossils
 other/unknown,organic Material
 other/unknown,organic material
 other/unknown,organic material
@@ -6657,6 +6703,7 @@ other/unknown,organic temper in pottery
 other/unknown,Organics
 other/unknown,Organics from hearth
 other/unknown,"organics, humates"
+other/unknown,os et charbon
 other/unknown,os provenant des sables gr‚sifi‚s siliceux dispos‚s en placage sur la paroi gauche de la galerie d?accŠs
 other/unknown,ostrich egg
 other/unknown,ostrich egg?
@@ -6970,6 +7017,7 @@ other/unknown,Thermal ionisation mass spectrometry on stalagmite base on top of 
 other/unknown,"thin layer under overhang, U-series"
 other/unknown,This is a repear of OxA-27176
 other/unknown,This is a repear of OxA-27177
+other/unknown,thumic fraction of GrN-3502
 other/unknown,tierra quemada  for layer XXId
 other/unknown,tierra quemada for layer XXIb
 other/unknown,tissue
@@ -6981,6 +7029,7 @@ other/unknown,TL Moscow
 other/unknown,TL on feldspar
 other/unknown,Tl on quartz
 other/unknown,top of C layer
+other/unknown,tourbe
 other/unknown,"trace chinois (GC-00-25), paroi gauche, entree de la galerie"
 other/unknown,traertines
 other/unknown,travertine
@@ -7132,6 +7181,8 @@ other/unknown,Wood and bones (5g)
 other/unknown,XAD purified collagen
 other/unknown,youngest date from 4 burnt flints
 other/unknown,
+other/unkown,Fauna
+other/unkown,Humic/fulvic acids
 plant remains, single-grains
 plant remains,(Acacia?) roots
 plant remains,acorn
@@ -7237,6 +7288,7 @@ plant remains,Fossil Celtis endocarp
 plant remains,Fossil timber
 plant remains,Free-threshing wheat grain
 plant remains,fruit
+plant remains,Fruit
 plant remains,fruit (charred)
 plant remains,fruit and cone scales
 plant remains,fruit and fruit scales
@@ -7259,6 +7311,9 @@ plant remains,Grain seeds
 plant remains,"grain, chickpeas"
 plant remains,"grain, lenses, peas"
 plant remains,grain/fruit
+plant remains,graine
+plant remains,Graine
+plant remains,graine (blé)
 plant remains,graines
 plant remains,graines de genevriers
 plant remains,Grains
@@ -7321,6 +7376,8 @@ plant remains,linen
 plant remains,linsen
 plant remains,Lolium seed
 plant remains,Lolium sp.
+plant remains,macroreste végétal
+plant remains,Maize
 plant remains,moss
 plant remains,Multi-grain aliquots
 plant remains,multiple grain single aliquot regeneratirve-dose determination
@@ -7394,6 +7451,7 @@ plant remains,plant macro remains
 plant remains,Plant macro remains
 plant remains,plant macro remains/grass
 plant remains,plant macrofossils
+plant remains,plant material
 plant remains,plant matter
 plant remains,plant matter (charred)
 plant remains,plant matter (marine)
@@ -7414,6 +7472,7 @@ plant remains,plantenvezels
 plant remains,plants
 plant remains,Polen
 plant remains,pollen
+plant remains,Pollen
 plant remains,Pollen (<5 microns)
 plant remains,Pollen (10-25 microns)
 plant remains,Pollen (45-90 microns)
@@ -7478,6 +7537,7 @@ plant remains,triticum
 plant remains,Triticum dicoccum
 plant remains,Triticum monococcum
 plant remains,Vegetable matter lining grave
+plant remains,Végétal
 plant remains,Wheat
 plant remains,wheat (charred)
 plant remains,Wheat grain
@@ -7485,6 +7545,8 @@ plant remains,Wheat indeterminate grain
 plant remains,wheat indeterminate grain
 plant remains,"wheat, chickpeas"
 plant remains,Zarzamora
+shell,"(Cittarium pica and marine shell Level 3, .6-.7 m Stombus gigas)"
+shell,"(Cittarium pica Bois Charrite marine shell Level 3, .2-.3 m and Stombus gigas)"
 shell,"AAR gastropod shells C, nemoralis"
 shell,"AAR gastropod shells C, nemoralis #6415"
 shell,"AAR gastropod shells C, nemoralis 6416"
@@ -7515,6 +7577,8 @@ shell,Chiton sp. Shell
 shell,"Chitons, limpets and Subinella sp. Shell"
 shell,Cockle (?)
 shell,coquille
+shell,coquille marine
+shell,coquille terrestre
 shell,Crassostera commercialis shell
 shell,"Crassostraea sp., Terebralia sp., Telescopium sp., Anadara sp."
 shell,decorated shell
@@ -7551,6 +7615,8 @@ shell,Hyotissa sp. shell
 shell,L.Littora shell B6 (Lower Magdalenian)
 shell,land scnail shell lip
 shell,Landshell
+shell,malacofauna
+shell,Malacofaune marine
 shell,Mangrove shell
 shell,Marcia hiantina shell
 shell,Marcia sp. Shell
@@ -7668,6 +7734,7 @@ shell,Tectus pyramis shell
 shell,Telescopium telescopium shell
 shell,Terebralia palustris shell
 shell,Terebralia sp. shell
+shell,terrestrial shell
 shell,Trochus sp. Aragnoite
 shell,"trochus sp., aragnonite"
 shell,Turban sp. shell
@@ -7717,6 +7784,7 @@ soil,charcoal from the Usselo soil
 soil,charcoal probalby from a deflated Usselo soil
 soil,"charcoal, fireplace  (from Usselo soil)"
 soil,"charcoal, soil"
+soil,charried soil
 soil,"ESR on quartz from Q1 sheet VI, lfluvial sands"
 soil,"ESR on quartz from Q1 sheet VII, layer 4b (fluvial)"
 soil,"ESR on quartz from Q12-1 sheet VII, layer 3(slope)"
@@ -7783,6 +7851,7 @@ soil,sediment
 soil,Sediment
 soil,sediment
 soil,Sediment
+soil,sédiment
 soil,sediment (organic-rich. clay)
 soil,sediment (organic-rich. silt)
 soil,sediment (organic-rich)
@@ -8691,6 +8760,7 @@ wood,bark
 wood,Bark
 wood,birch
 wood,birch bark
+wood,bois
 wood,Bulked hazel charcoal and unidentified wood in apparent association with lithics
 wood,charcoal  (charred wood)  ?form artefact concetration in Usselo layer
 wood,Charred beam
@@ -8699,6 +8769,7 @@ wood,Charred Wood
 wood,"charred wood AH 3,21"
 wood,"charrred wood AH 3,43"
 wood,Dendro
+wood,écorce
 wood,fossil wood Pinus sibirica
 wood,Haselzweig
 wood,Holz
@@ -8798,52 +8869,3 @@ wood,Wooden post (int. rings)
 wood,worked wood
 wood,Worked wood
 wood,"yew (Taxus sp.) wood point, blackened surface suggsts fire-hardening"
-wood,bois
-antler,bois de cerf
-other/unknown,calcaire
-other/unknown,caramel
-other/unknown,Caramel
-other/unknown,cendres
-ceramics,céramique
-ceramics,Ceramique-TL
-charcoal,charbons (lot)
-charcoal,charbons et cendres
-shell,coquille marine
-shell,coquille terrestre
-wood,écorce
-other/unknown,enduit
-plant remains,Fruit
-plant remains,graine
-plant remains,Graine
-plant remains,graine (blé)
-other/unknown,iconnu
-other/unknown,Indéterminé
-plant remains,macroreste végétal
-shell,Malacofaune marine
-other/unknown,Matériau à durée de vie courte Indet.
-other/unknown,matière organique
-other/unknown,Matière organique indéterminée
-other/unknown,n.d
-other/unknown,n.d –
-other/unknown,n.d.
-bone,Os-animal
-bone,Os-humain
-bone,os (apatite)
-bone,os (collagène)
-bone,os brûlé
-other/unknown,os et charbon
-plant remains,Pollen
-soil,sédiment
-ceramics,sherds bulk organic content
-other/unknown,thumic fraction of GrN-3502
-other/unknown,tourbe
-plant remains,Végétal
-other/unkown,Humic/fulvic acids
-food residues,Ceramic residue
-ceramics,Ceramic temper
-other/unkown,Fauna
-bone,Fauna bone (mammal)
-plant remains,Maize
-other/unknown,Human hair
-other/unknown,Human skin
-ceramics,Ceramics

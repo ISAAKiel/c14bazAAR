@@ -1,499 +1,557 @@
 c14bazAAR_variable,database,database_variable
-method,14cpalaeolithic,method
-labnr,14cpalaeolithic,labref
+c13val,14cpalaeolithic,
 c14age,14cpalaeolithic,age
 c14std,14cpalaeolithic,sigma.+/-
-c13val,14cpalaeolithic,
-site,14cpalaeolithic,sitename
-sitetype,14cpalaeolithic,
-feature,14cpalaeolithic,
-period,14cpalaeolithic,cult stage
-culture,14cpalaeolithic,
-material,14cpalaeolithic,sample
-species,14cpalaeolithic,
-region,14cpalaeolithic,
+comment,14cpalaeolithic,
 country,14cpalaeolithic,country
+culture,14cpalaeolithic,
+feature,14cpalaeolithic,
+labnr,14cpalaeolithic,labref
 lat,14cpalaeolithic,coord_lat
 lon,14cpalaeolithic,coord_long
+material,14cpalaeolithic,sample
+method,14cpalaeolithic,method
+period,14cpalaeolithic,cult stage
+region,14cpalaeolithic,
 shortref,14cpalaeolithic,bibliogr_ref
-comment,14cpalaeolithic,
-method,14sea,
-labnr,14sea,Lab. no.
+site,14cpalaeolithic,sitename
+sitetype,14cpalaeolithic,
+species,14cpalaeolithic,
+c13val,14sea,δ13C
 c14age,14sea,Date BP
 c14std,14sea,±
-c13val,14sea,δ13C
-site,14sea,Site
-sitetype,14sea,
-feature,14sea,Provenance
-period,14sea,Period
-culture,14sea,
-material,14sea,Material
-species,14sea,
-region,14sea,Subregion
+comment,14sea,Comment
 country,14sea,Country
+culture,14sea,
+feature,14sea,Provenance
+labnr,14sea,Lab. no.
 lat,14sea,
 lon,14sea,
+material,14sea,Material
+method,14sea,
+period,14sea,Period
+region,14sea,Subregion
 shortref,14sea,[Reference 1-4]
-comment,14sea,Comment
-,14sea,Subregion no.
+site,14sea,Site
+sitetype,14sea,
+species,14sea,
 ,14sea,calBC 1σ (from)
 ,14sea,calBC 1σ (to)
 ,14sea,Level
-method,adrac,METHOD
-labnr,adrac,LABNR
+,14sea,Subregion no.
+c13val,adrac,C13
 c14age,adrac,C14AGE
 c14std,adrac,C14STD
-c13val,adrac,C13
-site,adrac,SITE
-sitetype,adrac,
-feature,adrac,FEATURE
-period,adrac,PHASE
-culture,adrac,POTTERY
-material,adrac,MATERIAL
-species,adrac,
-region,adrac,
+comment,adrac,
 country,adrac,COUNTRY
+culture,adrac,POTTERY
+feature,adrac,FEATURE
+labnr,adrac,LABNR
 lat,adrac,LAT
 lon,adrac,LONG
+material,adrac,MATERIAL
+method,adrac,METHOD
+period,adrac,PHASE
+region,adrac,
 shortref,adrac,SOURCE
-comment,adrac,
-,adrac,FEATURE_DESC
+site,adrac,SITE
+sitetype,adrac,
+species,adrac,
+,adrac,CLASS_DS.WH_etal_2021
 ,adrac,DEPTH
+,adrac,FEATURE_DESC
+,adrac,FRUIT
+,adrac,IRON
 ,adrac,LITHICS
 ,adrac,POTTERY
-,adrac,IRON
-,adrac,FRUIT
-,adrac,CLASS_DS.WH_etal_2021
-method,austarch,METHOD
-labnr,austarch,LAB_CODE
+c13val,agrichange,δ13
+c14age,agrichange,BP
+c14std,agrichange,SD
+comment,agrichange,Observations
+country,agrichange,Country
+culture,agrichange,CultI
+culture,agrichange,CultII
+labnr,agrichange,LabCode
+lat,agrichange,Lat
+lon,agrichange,Lon
+material,agrichange,Sample
+method,agrichange,Method
+period,agrichange,ChronoPhase
+region,agrichange,Georegion
+shortref,agrichange,Date_reference
+site,agrichange,Site
+sitetype,agrichange,TypeSite
+species,agrichange,`Genus / specie`
+,agrichange,`%BP-SD`
+,agrichange,`%C`
+,agrichange,`%N`
+,agrichange,`C/N`
+,agrichange,`cal 2σ`
+,agrichange,`Subfamily / Familiy`
+,agrichange,Alt
+,agrichange,Alt_muni
+,agrichange,Database_reference
+,agrichange,ID
+,agrichange,Lat_muni
+,agrichange,Level
+,agrichange,Lon_muni
+,agrichange,mean
+,agrichange,Municipality
+,agrichange,Provenance
+,agrichange,Province
+,agrichange,Region
+,agrichange,Reliability
+,agrichange,ReliabilityWhy
+,agrichange,SoC
+,agrichange,Struc
+,agrichange,SU
+c13val,austarch,C13_AGE
 c14age,austarch,AGE
 c14std,austarch,ERROR
-c13val,austarch,C13_AGE
-site,austarch,SITE
-sitetype,austarch,SITE_TYPE
-feature,austarch,CONTEXT
-period,austarch,
-culture,austarch,
-material,austarch,MATERIAL
-species,austarch,
-region,austarch,IBRA_REGION
+comment,austarch,NOTES
 country,austarch,
+culture,austarch,
+feature,austarch,CONTEXT
+labnr,austarch,LAB_CODE
 lat,austarch,LATITUDE
 lon,austarch,LONGITUDE
+material,austarch,MATERIAL
+method,austarch,METHOD
+period,austarch,
+region,austarch,IBRA_REGION
 shortref,austarch,SOURCE
-comment,austarch,NOTES
-,austarch,ADSID
-,austarch,C13_ERROR
-,austarch,MATERIAL_TOP_LEVEL
-,austarch,DEPTH_FROM_SURFACE_CM
-,austarch,TECHNIQUE
-,austarch,Data pertinent for time-series analysis or calibration
-,austarch,Open or Closed Site
-,austarch,Directly Related to occupation? Yes/Unknown
-,austarch,RECORD_SOURCE
-,austarch,DATE_ISSUES
-,austarch,AGE_NORM
+site,austarch,SITE
+sitetype,austarch,SITE_TYPE
+species,austarch,
 ,austarch,ADDITIONAL_DATA_ISSUES
-method,calpal,METHOD
-labnr,calpal,LABNR
+,austarch,ADSID
+,austarch,AGE_NORM
+,austarch,C13_ERROR
+,austarch,Data pertinent for time-series analysis or calibration
+,austarch,DATE_ISSUES
+,austarch,DEPTH_FROM_SURFACE_CM
+,austarch,Directly Related to occupation? Yes/Unknown
+,austarch,MATERIAL_TOP_LEVEL
+,austarch,Open or Closed Site
+,austarch,RECORD_SOURCE
+,austarch,TECHNIQUE
+c13val,bda,delta13
+c14age,bda,Mesure
+c14std,bda,Ecartype
+comment,bda,Fiabilité
+country,bda,Pays
+culture,bda,culture
+feature,bda,num_couche
+labnr,bda,Code_labo
+lat,bda,Latitude
+lon,bda,Longitude
+material,bda,Matériel_daté
+method,bda,Méthode
+period,bda,période
+region,bda,Région
+shortref,bda,Ref_biblio
+site,bda,Nom_site
+sitetype,bda,Nature_site
+species,bda,Matériel_daté_précision
+c13val,calpal,C13
 c14age,calpal,C14AGE
 c14std,calpal,C14STD
-c13val,calpal,C13
-site,calpal,SITE
-sitetype,calpal,
-feature,calpal,
-period,calpal,PERIOD
-culture,calpal,CULTURE
-material,calpal,MATERIAL
-species,calpal,SPECIES
-region,calpal,
+comment,calpal,NOTICE
 country,calpal,COUNTRY
+culture,calpal,CULTURE
+feature,calpal,
+labnr,calpal,LABNR
 lat,calpal,LATITUDE
 lon,calpal,LONGITUDE
+material,calpal,MATERIAL
+method,calpal,METHOD
+period,calpal,PERIOD
+region,calpal,
 shortref,calpal,REFERENCE
-comment,calpal,NOTICE
-,calpal,ID
-,calpal,PHASE
-,calpal,LOCUS
+site,calpal,SITE
+sitetype,calpal,
+species,calpal,SPECIES
 ,calpal,CALAGE
 ,calpal,CALSTD
-method,context,
-labnr,context,LABNR
+,calpal,ID
+,calpal,LOCUS
+,calpal,PHASE
+c13val,caribbean,d13C
+c14age,caribbean,Age
+c14std,caribbean,Error
+country,caribbean,Country.Territory
+feature,caribbean,Provenience
+labnr,caribbean,LabNo
+lat,caribbean,Lat
+lon,caribbean,Lon
+material,caribbean,Type
+region,caribbean,"Region"""
+shortref,caribbean,Reference
+site,caribbean,SiteName
+,caribbean,"calCurves"""
+,caribbean,"Island"""
+,caribbean,"Material"""
+,caribbean,"Subregion"""
+,caribbean,"UniqID"""
+c13val,context,C13
 c14age,context,C14AGE
 c14std,context,C14STD
-c13val,context,C13
-site,context,SITE
-sitetype,context,
-feature,context,
-period,context,PERIOD
-culture,context,CULTURE
-material,context,MATERIAL
-species,context,SPECIES
-region,context,REGION
+comment,context,NOTICE
 country,context,COUNTRY
+culture,context,CULTURE
+feature,context,
+labnr,context,LABNR
 lat,context,LATITUDE
 lon,context,LONGITUDE
+material,context,MATERIAL
+method,context,
+period,context,PERIOD
+region,context,REGION
 shortref,context,REFERENCE
-comment,context,NOTICE
-,context,ID
-,context,PHASE
-,context,LOCUS
-,context,GR
-,context,MAR
-,context,SAMPLE
+site,context,SITE
+sitetype,context,
+species,context,SPECIES
 ,context,calBC68
 ,context,calBC95
+,context,GR
+,context,ID
 ,context,INCONGR
-method,eubar,
-labnr,eubar,Laboratorio
+,context,LOCUS
+,context,MAR
+,context,PHASE
+,context,SAMPLE
+c13val,eubar,
 c14age,eubar,Edad BP literatura
 c14std,eubar,Desviación Típica
-c13val,eubar,
-site,eubar,Yacimiento
-sitetype,eubar,Tipo de Yacimiento
-feature,eubar,Procedencia
-period,eubar,
-culture,eubar,
-material,eubar,Material Analizado
-species,eubar,
-region,eubar,Región
+comment,eubar,
 country,eubar,País
+culture,eubar,
+feature,eubar,Procedencia
+labnr,eubar,Laboratorio
 lat,eubar,y
 lon,eubar,x
+material,eubar,Material Analizado
+method,eubar,
+period,eubar,
+region,eubar,Región
 shortref,eubar,Bibliografía
-comment,eubar,
+site,eubar,Yacimiento
+sitetype,eubar,Tipo de Yacimiento
+species,eubar,
+,eubar,Cantón
+,eubar,Comarca
+,eubar,Comunidad autónoma
+,eubar,Contexto Funcional
+,eubar,Departamento
 ,eubar,Municipio
 ,eubar,Provincia/Distrito
-,eubar,Comarca
 ,eubar,Región
-,eubar,Comunidad autónoma
-,eubar,Departamento
-,eubar,Cantón
 ,eubar,Región geográfica
-,eubar,Contexto Funcional
-,eubar,Tipo de tumba
 ,eubar,Ritual funerario
-method,euroevol,
-labnr,euroevol,LabCode
+,eubar,Tipo de tumba
+c13val,euroevol,
 c14age,euroevol,C14Age
 c14std,euroevol,C14SD
-c13val,euroevol,
-site,euroevol,SiteName
-sitetype,euroevol,Type
-feature,euroevol,
-period,euroevol,Period
-culture,euroevol,Culture
-material,euroevol,Material
-species,euroevol,MaterialSpecies
-region,euroevol,
+comment,euroevol,
 country,euroevol,Country
+culture,euroevol,Culture
+feature,euroevol,
+labnr,euroevol,LabCode
 lat,euroevol,Latitude
 lon,euroevol,Longitude
+material,euroevol,Material
+method,euroevol,
+period,euroevol,Period
+region,euroevol,
 shortref,euroevol,
-comment,euroevol,
+site,euroevol,SiteName
+sitetype,euroevol,Type
+species,euroevol,MaterialSpecies
 ,euroevol,C14ID
 ,euroevol,PhaseCode
 ,euroevol,Subculture
-method,irdd,
-labnr,irdd,Code
+c13val,irdd,
 c14age,irdd,BP
 c14std,irdd,SD
-c13val,irdd,
-site,irdd,Site
-sitetype,irdd,Site type etc.
-feature,irdd,
-period,irdd,
-culture,irdd,
-material,irdd,Material
-species,irdd,
-region,irdd,
+comment,irdd,Notes
 country,irdd,
+culture,irdd,
+feature,irdd,
+labnr,irdd,Code
 lat,irdd,Latitude
 lon,irdd,Longitude
+material,irdd,Material
+method,irdd,
+period,irdd,
+region,irdd,
 shortref,irdd,Reference
-comment,irdd,Notes
-,irdd,No.
-,irdd,County
-,irdd,Cal date (2σ)
+site,irdd,Site
+sitetype,irdd,Site type etc.
+species,irdd,
+,irdd,1σ finish
+,irdd,1σ start
+,irdd,2σ finish
+,irdd,2σ start
 ,irdd,Cal date (1σ)
-,irdd,Program
+,irdd,Cal date (2σ)
+,irdd,County
 ,irdd,Curve
 ,irdd,Intercept (cal BC/AD)
 ,irdd,intercept (cal BP)
-,irdd,Mode (cal BC/AD)
-,irdd,δ13C or 13C/12C ratio
 ,irdd,Measured radiocarbon date
-,irdd,1σ start
-,irdd,1σ finish
-,irdd,2σ start
-,irdd,2σ finish
-,irdd,"series order: 1, 3, 4, 2"
+,irdd,Mode (cal BC/AD)
+,irdd,No.
 ,irdd,Other References to look for
-method,jomon,
-labnr,jomon,LabCode
+,irdd,Program
+,irdd,"series order: 1, 3, 4, 2"
+,irdd,δ13C or 13C/12C ratio
+c13val,jomon,Delta13C
 c14age,jomon,CRA
 c14std,jomon,Error
-c13val,jomon,Delta13C
-site,jomon,Site_Name_JP
-sitetype,jomon,Context_JP
-feature,jomon,
-period,jomon,PotteryPhase_JP
-culture,jomon,
-material,jomon,MaterialType_En
-species,jomon,
-region,jomon,Region
+comment,jomon,
 country,jomon,
+culture,jomon,
+feature,jomon,
+labnr,jomon,LabCode
 lat,jomon,
 lon,jomon,
+material,jomon,MaterialType_En
+method,jomon,
+period,jomon,PotteryPhase_JP
+region,jomon,Region
 shortref,jomon,Source
-comment,jomon,
-,jomon,SampleID
+site,jomon,Site_Name_JP
+sitetype,jomon,Context_JP
+species,jomon,
 ,jomon,CombineGroup
-,jomon,SiteID
-,jomon,Site_Address_JP
+,jomon,Delta13CError
 ,jomon,MaterialType_JP
 ,jomon,Phase
 ,jomon,Phase_Details
 ,jomon,PhaseAnalysis
-,jomon,Delta13CError
-method,katsianis,DateMethod
-labnr,katsianis,LabID
+,jomon,SampleID
+,jomon,Site_Address_JP
+,jomon,SiteID
+c13val,katsianis,DC13
 c14age,katsianis,CRA
 c14std,katsianis,Error
-c13val,katsianis,DC13
-site,katsianis,SiteName
-sitetype,katsianis,SiteType
-feature,katsianis,SiteContext
-period,katsianis,SitePhase
-culture,katsianis,CulturalPeriod
-material,katsianis,Material
-species,katsianis,Species
-region,katsianis,AdminRegion
+comment,katsianis,
 country,katsianis,Country
+culture,katsianis,CulturalPeriod
+feature,katsianis,SiteContext
+labnr,katsianis,LabID
 lat,katsianis,Longitude
 lon,katsianis,
+material,katsianis,Material
+method,katsianis,DateMethod
+period,katsianis,SitePhase
+region,katsianis,AdminRegion
 shortref,katsianis,Comments
-comment,katsianis,
+site,katsianis,SiteName
+sitetype,katsianis,SiteType
+species,katsianis,Species
 ,katsianis,DBID
-,katsianis,OthLabID
 ,katsianis,OthDateCode
-,katsianis,Problems
+,katsianis,OthLabID
 ,katsianis,OthMeasures
-method,kiteeastafrica,
-labnr,kiteeastafrica,Lab Number
+,katsianis,Problems
+c13val,kiteeastafrica,Delta 13C (per mil)
 c14age,kiteeastafrica,Normalized Age
 c14std,kiteeastafrica,NA Sigma
-c13val,kiteeastafrica,Delta 13C (per mil)
-site,kiteeastafrica,Site Identifier
-sitetype,kiteeastafrica,
-feature,kiteeastafrica,Site Name
-period,kiteeastafrica,
-culture,kiteeastafrica,
-material,kiteeastafrica,Material Dated
-species,kiteeastafrica,Taxa Dated
-region,kiteeastafrica,
+comment,kiteeastafrica,[Additional Information + Comments]
 country,kiteeastafrica,
+culture,kiteeastafrica,
+feature,kiteeastafrica,Site Name
+labnr,kiteeastafrica,Lab Number
 lat,kiteeastafrica,Latitude
 lon,kiteeastafrica,Longitude
+material,kiteeastafrica,Material Dated
+method,kiteeastafrica,
+period,kiteeastafrica,
+region,kiteeastafrica,
 shortref,kiteeastafrica,References
-comment,kiteeastafrica,[Additional Information + Comments]
+site,kiteeastafrica,Site Identifier
+sitetype,kiteeastafrica,
+species,kiteeastafrica,Taxa Dated
+,kiteeastafrica,Associated Taxa
+,kiteeastafrica,Collector
+,kiteeastafrica,Context
+,kiteeastafrica,Date Collected
+,kiteeastafrica,Date Submitted
+,kiteeastafrica,Date Updated
+,kiteeastafrica,Delta 13C Source
+,kiteeastafrica,Elevation (m ASL)
 ,kiteeastafrica,Field Number
 ,kiteeastafrica,Locality
-,kiteeastafrica,Map Sheet
-,kiteeastafrica,Elevation (m ASL)
-,kiteeastafrica,Submitter
-,kiteeastafrica,Date Submitted
-,kiteeastafrica,Collector
-,kiteeastafrica,Date Collected
-,kiteeastafrica,Updater
-,kiteeastafrica,Date Updated
-,kiteeastafrica,Measured Age
 ,kiteeastafrica,MA Sigma
-,kiteeastafrica,Delta 13C Source
+,kiteeastafrica,Map Sheet
+,kiteeastafrica,Measured Age
 ,kiteeastafrica,Significance
 ,kiteeastafrica,Stratigraphic Component
-,kiteeastafrica,Context
-,kiteeastafrica,Associated Taxa
-method,medafricarbon,Date_Method
-labnr,medafricarbon,Lab_ID
+,kiteeastafrica,Submitter
+,kiteeastafrica,Updater
+c13val,medafricarbon,DC13
 c14age,medafricarbon,CRA
 c14std,medafricarbon,Error
-c13val,medafricarbon,DC13
-site,medafricarbon,Site_Name
-sitetype,medafricarbon,Site_Type
-feature,medafricarbon,Site_Context
-period,medafricarbon,
-culture,medafricarbon,culture
-material,medafricarbon,Material
-species,medafricarbon,
-region,medafricarbon,Admin_Region
+comment,medafricarbon,Notes
 country,medafricarbon,Country
+culture,medafricarbon,culture
+feature,medafricarbon,Site_Context
+labnr,medafricarbon,Lab_ID
 lat,medafricarbon,Decimal_Degrees_Lat
 lon,medafricarbon,Decimal_Degrees_Long
+material,medafricarbon,Material
+method,medafricarbon,Date_Method
+period,medafricarbon,
+region,medafricarbon,Admin_Region
 shortref,medafricarbon,shortref
-comment,medafricarbon,Notes
-,medafricarbon,Date_ID
-,medafricarbon,Other_Lab_ID
-,medafricarbon,Problems
-,medafricarbon,DC13_Error
+site,medafricarbon,Site_Name
+sitetype,medafricarbon,Site_Type
+species,medafricarbon,
 ,medafricarbon,Calibration_Curve
+,medafricarbon,Date_ID
+,medafricarbon,DC13_Error
 ,medafricarbon,Local_Reservoire_14Cyr
 ,medafricarbon,Local_Reservoire_14Cyr_Error
-,medafricarbon,Species
-,medafricarbon,Site_ID
-,medafricarbon,Phase_ID
-,medafricarbon,Phase_by_Excavator
-,medafricarbon,Sample_ID
 ,medafricarbon,Location_Quality
-method,mesorad,Dating Method
-labnr,mesorad,Lab No.
+,medafricarbon,Other_Lab_ID
+,medafricarbon,Phase_by_Excavator
+,medafricarbon,Phase_ID
+,medafricarbon,Problems
+,medafricarbon,Sample_ID
+,medafricarbon,Site_ID
+,medafricarbon,Species
+c13val,mesorad,
 c14age,mesorad,Conventional 14C age (BP)
 c14std,mesorad,Error (±)
-c13val,mesorad,
-site,mesorad,Site
-sitetype,mesorad,Context
-feature,mesorad,Provenience
-period,mesorad,
-culture,mesorad,
-material,mesorad,
-species,mesorad,
-region,mesorad,Adaptive Region
+comment,mesorad,Chronometric Hygiene/ Issues with Dates
 country,mesorad,
+culture,mesorad,
+feature,mesorad,Provenience
+labnr,mesorad,Lab No.
 lat,mesorad,
 lon,mesorad,
+material,mesorad,
+method,mesorad,Dating Method
+period,mesorad,
+region,mesorad,Adaptive Region
 shortref,mesorad,Citation
-comment,mesorad,Chronometric Hygiene/ Issues with Dates
+site,mesorad,Site
+sitetype,mesorad,Context
+species,mesorad,
 ,mesorad,2-σ calibrated from
 ,mesorad,2-σ calibrated to
 ,mesorad,Duplicate/Replicate
-method,pacea,Date Type
-labnr,pacea,Code
+c13val,nerd,DC13
+c14age,nerd,CRA
+c14std,nerd,Error
+comment,nerd,Comments
+country,nerd,Country
+feature,nerd,SiteContext
+labnr,nerd,LabID
+lat,nerd,Latitude
+lon,nerd,Longitude
+material,nerd,Material
+shortref,nerd,Source
+site,nerd,SiteName
+,nerd,DateID
+,nerd,LocQual
+,nerd,OthLabID
+,nerd,Problems
+,nerd,SiteID
+,nerd,SiteType
+,nerd,Species
+c13val,pacea,
 c14age,pacea,Age
 c14std,pacea,s.dev.
-c13val,pacea,
-site,pacea,Site
-sitetype,pacea,Site Type
-feature,pacea,Site Function
-period,pacea,Cultural Attribution 1
-culture,pacea,Cultural Attribution 2
-material,pacea,Sample
-species,pacea,
-region,pacea,Region
+comment,pacea,Notes
 country,pacea,Country
+culture,pacea,Cultural Attribution 2
+feature,pacea,Site Function
+labnr,pacea,Code
 lat,pacea,Latitude
 lon,pacea,Longitude
+material,pacea,Sample
+method,pacea,Date Type
+period,pacea,Cultural Attribution 1
+region,pacea,Region
 shortref,pacea,Biblio
-comment,pacea,Notes
-method,palmisano,
-labnr,palmisano,LabID
+site,pacea,Site
+sitetype,pacea,Site Type
+species,pacea,
+c13val,palmisano,
 c14age,palmisano,CRA
 c14std,palmisano,Error
-c13val,palmisano,
-site,palmisano,SiteName
-sitetype,palmisano,Type
-feature,palmisano,
-period,palmisano,Period
-culture,palmisano,
-material,palmisano,Material
-species,palmisano,Species
-region,palmisano,
+comment,palmisano,
 country,palmisano,
+culture,palmisano,
+feature,palmisano,
+labnr,palmisano,LabID
 lat,palmisano,Latitude
 lon,palmisano,Longitude
+material,palmisano,Material
+method,palmisano,
+period,palmisano,Period
+region,palmisano,
 shortref,palmisano,Source
-comment,palmisano,
-,palmisano,LocQual
-,palmisano,StartDate
+site,palmisano,SiteName
+sitetype,palmisano,Type
+species,palmisano,Species
 ,palmisano,EndDate
+,palmisano,LocQual
 ,palmisano,SizeHA
 ,palmisano,SizeQual
 ,palmisano,Source_id
-method,radon,
-labnr,radon,LABNR
+,palmisano,StartDate
+c13val,radon,C13
 c14age,radon,C14AGE
 c14std,radon,C14STD
-c13val,radon,C13
-site,radon,SITE
-sitetype,radon,FEATURETYPE
-feature,radon,FEATURE
-period,radon,PERIOD
-culture,radon,CULTURE
-material,radon,MATERIAL
-species,radon,SPECIES
-region,radon,
+comment,radon,
 country,radon,COUNTRY
+culture,radon,CULTURE
+feature,radon,FEATURE
+labnr,radon,LABNR
 lat,radon,LATITUDE
 lon,radon,LONGITUDE
+material,radon,MATERIAL
+method,radon,
+period,radon,PERIOD
+region,radon,
 shortref,radon,REFERENCE
-comment,radon,
+site,radon,SITE
+sitetype,radon,FEATURETYPE
+species,radon,SPECIES
 ,radon,ID
-method,radonb,
-labnr,radonb,LABNR
+c13val,radonb,C13
 c14age,radonb,C14AGE
 c14std,radonb,C14STD
-c13val,radonb,C13
-site,radonb,SITE
-sitetype,radonb,FEATURETYPE
-feature,radonb,FEATURE
-period,radonb,PERIOD
-culture,radonb,CULTURE
-material,radonb,MATERIAL
-species,radonb,SPECIES
-region,radonb,
+comment,radonb,
 country,radonb,COUNTRY
+culture,radonb,CULTURE
+feature,radonb,FEATURE
+labnr,radonb,LABNR
 lat,radonb,LATITUDE
 lon,radonb,LONGITUDE
+material,radonb,MATERIAL
+method,radonb,
+period,radonb,PERIOD
+region,radonb,
 shortref,radonb,REFERENCE
-comment,radonb,
+site,radonb,SITE
+sitetype,radonb,FEATURETYPE
+species,radonb,SPECIES
 ,radonb,ID
-labnr,nerd,LabID,
-c14age,nerd,CRA,
-c14std,nerd,Error,
-c13val,nerd,DC13,
-material,nerd,Material,
-site,nerd,SiteName,
-country,nerd,Country,
-feature,nerd,SiteContext,
-lat,nerd,Latitude,
-lon,nerd,Longitude,
-comment,nerd,Comments,
-shortref,nerd,Source,
-,nerd,DateID,
-,nerd,OthLabID,
-,nerd,Problems,
-,nerd,Species,
-,nerd,SiteID,
-,nerd,SiteType,
-,nerd,LocQual
-method,bda,Méthode
-labnr,bda,Code_labo
-c14age,bda,Mesure
-c14std,bda,Ecartype
-c13val,bda,delta13
-site,bda,Nom_site
-sitetype,bda,Nature_site
-feature,bda,num_couche
-period,bda,période
-culture,bda,culture
-material,bda,Matériel_daté
-species,bda,Matériel_daté_précision
-region,bda,Région
-country,bda,Pays
-lat,bda,Latitude
-lon,bda,Longitude
-shortref,bda,Ref_biblio
-comment,bda,Fiabilité
-,rxpand,FullReference
-,rxpand,Exclude
-,rxpand,Class
-labnr,rxpand,LabCode
 c14age,rxpand,C14Age
 c14std,rxpand,C14SD
-material,rxpand,Material
-site,rxpand,Site
-feature,rxpand,Description
+comment,rxpand,Comments
 culture,rxpand,Culture
+feature,rxpand,Description
+labnr,rxpand,LabCode
 lat,rxpand,Latitude
 lon,rxpand,Longitude
-comment,rxpand,Comments
+material,rxpand,Material
 shortref,rxpand,Reference
+site,rxpand,Site
+,rxpand,Class
+,rxpand,Exclude
+,rxpand,FullReference

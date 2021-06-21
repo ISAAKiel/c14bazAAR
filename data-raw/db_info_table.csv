@@ -23,3 +23,5 @@ mesorad,2020-09-01,1,https://github.com/eehh-stanford/price2020/raw/master/MesoR
 bda,2020-03-29,1,https://api.nakala.fr/data/10.34847/nkl.dde9fnm8/189e04d917ffd68352a389006f357b58efda855e
 nerd,2021-03-31,1,https://raw.githubusercontent.com/apalmisano82/NERD/main/nerd.csv
 rxpand,2020-10-20,1,https://raw.githubusercontent.com/jgregoriods/rxpand/master/data/expand.csv
+agrichange,2021-05-21,1,https://zenodo.org/record/4541470/files/AgriChange_14Cdatabase.xlsx
+caribbean,2021-05-21,1,https://raw.githubusercontent.com/philriris/caribbean-14C/main/data/caribbean_14C.csv
